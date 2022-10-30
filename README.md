@@ -22,6 +22,7 @@ to create a tic tac toe with ReactJS.
 <hr >
 
 # Preview
+![localhost_3000_ (2)](https://user-images.githubusercontent.com/95171638/198876173-e64f208e-09d1-4b0d-af33-fd89243b1fc2.png)
 
 ### `npm start`
 
