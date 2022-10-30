@@ -1,10 +1,27 @@
-# Getting Started with Create React App
+# Tic Tac Toe React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a second React assessment Project Given By Habuild. for frontend role.
+to create a tic tac toe with ReactJS.
 
-## Available Scripts
+<hr>
 
-In the project directory, you can run:
+## Tech Stack
+
+- HTML
+- CSS
+- Javascript.
+- ReactJS
+
+## Main components
+
+- Header component
+- Board for drawing x and o
+- box each box which holds the x or o player
+- Added basic css styles.
+
+<hr >
+
+# Preview
 
 ### `npm start`
 
